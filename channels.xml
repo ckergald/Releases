@@ -8,6 +8,12 @@
       <thumb></thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/246681-1.jpg</fanart>
     </show>
+    <show>
+      <title>Foute Vrienden</title>
+      <rageid>34989</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268031-2.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268031-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>A&amp;E</name>
@@ -310,6 +316,18 @@
       <rageid>33363</rageid>
       <thumb>http://thetvdb.com/banners/posters/264274-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/264274-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Bates Motel</title>
+      <rageid>32210</rageid>
+      <thumb>http://thetvdb.com/banners/posters/262414-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/262414-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Killer Speaks</title>
+      <rageid>33898</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268422-1.jpg</thumb>
+      <fanart></fanart>
     </show>
   </channel>
   <channel>
@@ -1646,6 +1664,24 @@
       <thumb>http://thetvdb.com/banners/posters/95711-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/95711-1.jpg</fanart>
     </show>
+    <show>
+      <title>How to Live With Your Parents</title>
+      <rageid>30811</rageid>
+      <thumb>http://thetvdb.com/banners/posters/259060-2.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/259060-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Clan</title>
+      <rageid>33354</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Twin Peaks</title>
+      <rageid>6450</rageid>
+      <thumb>http://thetvdb.com/banners/posters/70533-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/70533-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>ABC Family</name>
@@ -1763,6 +1799,12 @@
       <thumb>http://thetvdb.com/banners/posters/82422-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/82422-1.jpg</fanart>
     </show>
+    <show>
+      <title>Samurai Girl</title>
+      <rageid>18410</rageid>
+      <thumb>http://thetvdb.com/banners/posters/82914-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/82914-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>ABC1</name>
@@ -1868,6 +1910,24 @@
       <thumb>http://thetvdb.com/banners/posters/179511-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/179511-1.jpg</fanart>
     </show>
+    <show>
+      <title>The Checkout</title>
+      <rageid>35443</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267878-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Agony Of Life</title>
+      <rageid>34474</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267220-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267220-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Doctor Blake Mysteries</title>
+      <rageid>31988</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266443-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266443-2.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>ABC2</name>
@@ -1918,6 +1978,12 @@
       <rageid>29457</rageid>
       <thumb>http://thetvdb.com/banners/posters/251613-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/251613-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Strange Calls</title>
+      <rageid>33161</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/263366-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -2114,6 +2180,18 @@
       <thumb>http://thetvdb.com/banners/posters/80923-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/80923-1.jpg</fanart>
     </show>
+    <show>
+      <title>Your Pretty Face Is Going to Hell</title>
+      <rageid>35184</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268386-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268386-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Loiter Squad</title>
+      <rageid>31169</rageid>
+      <thumb>http://thetvdb.com/banners/posters/256596-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/256596-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>AMC</name>
@@ -2188,6 +2266,12 @@
       <rageid>34447</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Immortalized</title>
+      <rageid>34039</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266524-2.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266524-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -2558,6 +2642,18 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>ICE COLD GOLD</title>
+      <rageid>35371</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268619-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Wild West Alaska</title>
+      <rageid>34496</rageid>
+      <thumb>http://thetvdb.com/banners/posters/265582-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/265582-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>Animax</name>
@@ -2638,12 +2734,30 @@
     </show>
   </channel>
   <channel>
+    <name>arte</name>
+    <show>
+      <title>Zeit der Helden</title>
+      <rageid>34391</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+  </channel>
+  <channel>
     <name>AT-X</name>
     <show>
       <title>MM!</title>
       <rageid>26295</rageid>
       <thumb>http://thetvdb.com/banners/posters/194541-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/194541-1.jpg</fanart>
+    </show>
+  </channel>
+  <channel>
+    <name>AUDIENCE Network</name>
+    <show>
+      <title>Rogue</title>
+      <rageid>31655</rageid>
+      <thumb>http://thetvdb.com/banners/posters/265454-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/265454-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -2758,6 +2872,18 @@
       <rageid>30984</rageid>
       <thumb>http://thetvdb.com/banners/posters/256300-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/256300-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Orphan Black</title>
+      <rageid>33293</rageid>
+      <thumb>http://thetvdb.com/banners/posters/260315-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/260315-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Nerdist</title>
+      <rageid>29412</rageid>
+      <thumb>http://thetvdb.com/banners/posters/251782-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/251782-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -5069,6 +5195,72 @@
       <thumb>http://thetvdb.com/banners/posters/252193-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/252193-1.jpg</fanart>
     </show>
+    <show>
+      <title>Mayday</title>
+      <rageid>34561</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Masterchef (UK)</title>
+      <rageid>10461</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Great Bear Stakeout</title>
+      <rageid>35411</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/269108-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Wright Way</title>
+      <rageid>35103</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268600-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268600-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Syndicate (UK)</title>
+      <rageid>31090</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>The Prisoners</title>
+      <rageid>35174</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>The Village</title>
+      <rageid>32838</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267149-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267149-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Being Eileen</title>
+      <rageid>34265</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266596-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266596-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Victoria Wood's Nice Cup of Tea</title>
+      <rageid>35178</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268624-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268624-1.jpg</fanart>
+    </show>
+    <show>
+      <title>My Hero</title>
+      <rageid>4581</rageid>
+      <thumb>http://thetvdb.com/banners/posters/76189-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/76189-1.jpg</fanart>
+    </show>
+    <show>
+      <title>You've Been Scammed</title>
+      <rageid>30001</rageid>
+      <thumb>http://thetvdb.com/banners/posters/254645-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>BBC One Northern Ireland</name>
@@ -5627,6 +5819,60 @@
     <show>
       <title>Care Home Kids: Looking for Love</title>
       <rageid>32356</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Licence to Kill</title>
+      <rageid>35436</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Bluestone 42</title>
+      <rageid>34562</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267489-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267489-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Don't Just Stand There, I'm Having Your Baby</title>
+      <rageid>34815</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Barely Legal Drivers</title>
+      <rageid>35030</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268355-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>The Baby Bomb</title>
+      <rageid>34914</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>In The Flesh</title>
+      <rageid>34747</rageid>
+      <thumb>http://thetvdb.com/banners/posters/261742-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/261742-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Lee Nelson's Well Funny People</title>
+      <rageid>34811</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Horsemeat Banquet</title>
+      <rageid>35027</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Free Speech</title>
+      <rageid>30967</rageid>
       <thumb></thumb>
       <fanart></fanart>
     </show>
@@ -7547,6 +7793,96 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>Hairy Bikers' Best of British</title>
+      <rageid>30163</rageid>
+      <thumb>http://thetvdb.com/banners/posters/253897-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/253897-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Politician's Husband</title>
+      <rageid>35373</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268693-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268693-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Keeping Britain Alive: The NHS In One Day</title>
+      <rageid>34916</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>The Great British Sewing Bee</title>
+      <rageid>35098</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Paul Hollywood's Bread</title>
+      <rageid>34910</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267775-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267775-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Fit to Rule?</title>
+      <rageid>35099</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268555-1.jpg</fanart>
+    </show>
+    <show>
+      <title>It's Kevin</title>
+      <rageid>35115</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267597-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Bill Bailey's Jungle Hero</title>
+      <rageid>35402</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Isaac Newton: The Last Magician</title>
+      <rageid>34997</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Heading Out</title>
+      <rageid>33346</rageid>
+      <thumb>http://thetvdb.com/banners/posters/264969-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/264969-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Wild Arabia</title>
+      <rageid>33092</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267135-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267135-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Dead of Night</title>
+      <rageid>3265</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>The Other Pompeii: Life and Death in Herculaneum</title>
+      <rageid>35097</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Ancient Egypt: Life and Death in the Valley of the Kings</title>
+      <rageid>34698</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>The Mystery of Edwin Drood</title>
+      <rageid>30413</rageid>
+      <thumb>http://thetvdb.com/banners/posters/255053-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/255053-2.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>BBC TWO Scotland</name>
@@ -7775,6 +8111,12 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>The Ghost Speaks</title>
+      <rageid>35427</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>BNN</name>
@@ -7795,6 +8137,12 @@
       <rageid>30191</rageid>
       <thumb>http://thetvdb.com/banners/posters/254314-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/254314-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Spuiten en Slikken</title>
+      <rageid>19505</rageid>
+      <thumb>http://thetvdb.com/banners/posters/83078-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/83078-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -8072,6 +8420,12 @@
       <thumb>http://thetvdb.com/banners/posters/265577-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/265577-1.jpg</fanart>
     </show>
+    <show>
+      <title>LA Shrinks</title>
+      <rageid>32051</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267148-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>BS-i</name>
@@ -8116,6 +8470,12 @@
       <rageid>27418</rageid>
       <thumb>http://thetvdb.com/banners/posters/185851-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/185851-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Crematorio</title>
+      <rageid>27776</rageid>
+      <thumb>http://thetvdb.com/banners/posters/237081-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/237081-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -8681,6 +9041,12 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>Cracked</title>
+      <rageid>34020</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>Cbeebies</name>
@@ -8737,6 +9103,12 @@
       <rageid>25334</rageid>
       <thumb>http://thetvdb.com/banners/posters/181241-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/181241-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Tree Fu Tom</title>
+      <rageid>30921</rageid>
+      <thumb>http://thetvdb.com/banners/posters/256890-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/256890-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -11036,6 +11408,54 @@
       <thumb>http://thetvdb.com/banners/posters/257449-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/257449-1.jpg</fanart>
     </show>
+    <show>
+      <title>The Sex Clinic</title>
+      <rageid>35173</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>The Mimic</title>
+      <rageid>34788</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267340-2.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267340-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Intern</title>
+      <rageid>35088</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268598-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Walking Through History</title>
+      <rageid>35167</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Britain's Secret Shoppers</title>
+      <rageid>34357</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267051-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267051-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Bedtime Live</title>
+      <rageid>34897</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Londons Burning</title>
+      <rageid>30690</rageid>
+      <thumb>http://thetvdb.com/banners/posters/77731-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/77731-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Superscrimpers' Challenge</title>
+      <rageid>35016</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>Channel 5</name>
@@ -11104,6 +11524,18 @@
       <rageid>9302</rageid>
       <thumb></thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/86541-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Peppa Pig</title>
+      <rageid>7162</rageid>
+      <thumb>http://thetvdb.com/banners/posters/79222-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/79222-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Whale Adventure with Nigel Marven</title>
+      <rageid>34810</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
     </show>
   </channel>
   <channel>
@@ -11318,6 +11750,24 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>Guntucky</title>
+      <rageid>32318</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268606-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268606-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Dog and Beth: On the Hunt</title>
+      <rageid>34650</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268313-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268313-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Cops Reloaded</title>
+      <rageid>34880</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>CNBC</name>
@@ -11326,6 +11776,15 @@
       <rageid>21731</rageid>
       <thumb>http://thetvdb.com/banners/posters/170491-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/170491-1.jpg</fanart>
+    </show>
+  </channel>
+  <channel>
+    <name>CNN</name>
+    <show>
+      <title>Anthony Bourdain Parts Unknown</title>
+      <rageid>35416</rageid>
+      <thumb>http://thetvdb.com/banners/posters/264108-3.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/264108-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -11498,6 +11957,18 @@
       <thumb>http://thetvdb.com/banners/posters/79649-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/79649-1.jpg</fanart>
     </show>
+    <show>
+      <title>The Ben Show</title>
+      <rageid>33081</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Nathan For You</title>
+      <rageid>33290</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267002-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267002-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>Comedy Central UK</name>
@@ -11590,6 +12061,12 @@
       <rageid>26023</rageid>
       <thumb>http://thetvdb.com/banners/posters/172011-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/172011-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Territory Cops</title>
+      <rageid>33383</rageid>
+      <thumb>http://thetvdb.com/banners/posters/263192-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/263192-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -11782,6 +12259,18 @@
       <rageid>33187</rageid>
       <thumb>http://thetvdb.com/banners/posters/265521-1.jpg</thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Monsters and Mysteries in America</title>
+      <rageid>35105</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268090-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268090-1.jpg</fanart>
+    </show>
+    <show>
+      <title>United States Of Food</title>
+      <rageid>31822</rageid>
+      <thumb>http://thetvdb.com/banners/posters/260518-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/260518-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -12491,6 +12980,60 @@
       <thumb></thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/265759-1.jpg</fanart>
     </show>
+    <show>
+      <title>Backyard Oil</title>
+      <rageid>35452</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268672-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268672-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Wheeler Dealers: Trading Up</title>
+      <rageid>35281</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268452-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268452-3.jpg</fanart>
+    </show>
+    <show>
+      <title>Last Car Standing</title>
+      <rageid>35578</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/269071-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Naked Castaway</title>
+      <rageid>35414</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268671-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Pot Cops</title>
+      <rageid>35210</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Blade Brothers</title>
+      <rageid>35432</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Swimming with Monsters</title>
+      <rageid>35370</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268584-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Naked And Marooned With Ed Stafford</title>
+      <rageid>35148</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Weed Country</title>
+      <rageid>34639</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266999-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>Discovery Fit &amp; Health</name>
@@ -13046,6 +13589,24 @@
       <thumb>http://thetvdb.com/banners/posters/266064-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/266064-1.jpg</fanart>
     </show>
+    <show>
+      <title>What Would Ryan Lochte Do?</title>
+      <rageid>34141</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268315-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Burning Love</title>
+      <rageid>32261</rageid>
+      <thumb>http://thetvdb.com/banners/posters/259691-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/259691-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Playing With Fire</title>
+      <rageid>35036</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>E4</name>
@@ -13163,6 +13724,12 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>Youngers</title>
+      <rageid>35226</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267738-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267738-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>één</name>
@@ -13216,6 +13783,15 @@
       <rageid>4634</rageid>
       <thumb>http://thetvdb.com/banners/posters/76719-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/76719-1.jpg</fanart>
+    </show>
+  </channel>
+  <channel>
+    <name>EO</name>
+    <show>
+      <title>De Pelgrimscode</title>
+      <rageid>26883</rageid>
+      <thumb>http://thetvdb.com/banners/posters/253750-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/253750-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -14597,6 +15173,12 @@
       <thumb>http://thetvdb.com/banners/posters/75758-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/75758-1.jpg</fanart>
     </show>
+    <show>
+      <title>Space Goofs</title>
+      <rageid>5277</rageid>
+      <thumb>http://thetvdb.com/banners/posters/73248-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/73248-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>Fox Reality</name>
@@ -14899,6 +15481,12 @@
       <rageid>30449</rageid>
       <thumb>http://thetvdb.com/banners/posters/261690-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/261690-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Legit</title>
+      <rageid>31934</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/80896-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -15449,6 +16037,18 @@
       <thumb>http://thetvdb.com/banners/posters/237831-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/237831-1.jpg</fanart>
     </show>
+    <show>
+      <title>HBO Documentary Films</title>
+      <rageid>35257</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Vice</title>
+      <rageid>33100</rageid>
+      <thumb>http://thetvdb.com/banners/posters/264739-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/264739-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>HBO Canada</name>
@@ -15941,6 +16541,18 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>Ultimate Soldier Challenge</title>
+      <rageid>34633</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266975-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Bible</title>
+      <rageid>34473</rageid>
+      <thumb>http://thetvdb.com/banners/posters/265720-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/265720-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>History Television</name>
@@ -15967,6 +16579,12 @@
       <rageid>29846</rageid>
       <thumb>http://thetvdb.com/banners/posters/249335-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/249335-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Yukon Gold</title>
+      <rageid>34961</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267736-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267736-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -16064,6 +16682,12 @@
       <thumb>http://thetvdb.com/banners/posters/256349-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/256349-1.jpg</fanart>
     </show>
+    <show>
+      <title>Transformers Prime Beast Hunters</title>
+      <rageid>26766</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>Hulu, iTunes</name>
@@ -16148,6 +16772,12 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>Dark Minds</title>
+      <rageid>30121</rageid>
+      <thumb>http://thetvdb.com/banners/posters/255676-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>IFC</name>
@@ -16228,6 +16858,12 @@
       <rageid>33300</rageid>
       <thumb>http://thetvdb.com/banners/posters/265406-1.jpg</thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Maron</title>
+      <rageid>33285</rageid>
+      <thumb>http://thetvdb.com/banners/posters/257993-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/257993-2.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -16378,6 +17014,18 @@
       <rageid>21202</rageid>
       <thumb>http://thetvdb.com/banners/posters/217931-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/217931-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Dead Of Night (2013)</title>
+      <rageid>34891</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Dates From Hell</title>
+      <rageid>32226</rageid>
+      <thumb>http://thetvdb.com/banners/posters/264997-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/264997-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -16807,6 +17455,42 @@
       <rageid>465</rageid>
       <thumb>http://thetvdb.com/banners/posters/78604-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/78604-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Broadchurch</title>
+      <rageid>34118</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266398-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266398-2.jpg</fanart>
+    </show>
+    <show>
+      <title>James Nesbitt's Ireland</title>
+      <rageid>34823</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267914-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Off Their Rockers</title>
+      <rageid>35171</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Catchphrase (2013)</title>
+      <rageid>35172</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268543-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268543-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Ant and Dec's Saturday Night Takeaway</title>
+      <rageid>2628</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/85241-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Lightfields</title>
+      <rageid>34550</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267098-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267098-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -18047,6 +18731,12 @@
       <thumb>http://thetvdb.com/banners/posters/235371-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/235371-1.jpg</fanart>
     </show>
+    <show>
+      <title>Plebs</title>
+      <rageid>34954</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267951-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267951-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>ITV3</name>
@@ -18163,6 +18853,12 @@
       <rageid>20141</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Keuringsdienst van Waarde</title>
+      <rageid>20602</rageid>
+      <thumb>http://thetvdb.com/banners/posters/82280-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/82280-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -18344,6 +19040,18 @@
       <thumb>http://thetvdb.com/banners/posters/248929-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/248929-1.jpg</fanart>
     </show>
+    <show>
+      <title>Preachers' Daughters</title>
+      <rageid>34359</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Double Divas</title>
+      <rageid>33752</rageid>
+      <thumb>http://thetvdb.com/banners/posters/265774-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/265774-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>Logo</name>
@@ -18392,6 +19100,12 @@
     <show>
       <title>Nattpatruljen</title>
       <rageid>33995</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Oorlogsgeheimen</title>
+      <rageid>28215</rageid>
       <thumb></thumb>
       <fanart></fanart>
     </show>
@@ -18847,6 +19561,24 @@
       <rageid>33667</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Ke$ha: My Crazy Beautiful Life</title>
+      <rageid>35453</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267709-2.jpg</thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Girl Code</title>
+      <rageid>35183</rageid>
+      <thumb>http://thetvdb.com/banners/posters/269084-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Failosophy</title>
+      <rageid>34518</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266724-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266724-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -19396,6 +20128,60 @@
       <rageid>34493</rageid>
       <thumb>http://thetvdb.com/banners/posters/267131-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/267131-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Breakout: Escape from Supermax</title>
+      <rageid>35322</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>The Numbers Game</title>
+      <rageid>35321</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>To Catch a Smuggler</title>
+      <rageid>32852</rageid>
+      <thumb>http://thetvdb.com/banners/posters/264244-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Brain Games</title>
+      <rageid>29425</rageid>
+      <thumb>http://thetvdb.com/banners/posters/252570-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/252570-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The '80s: The Decade That Made Us</title>
+      <rageid>35413</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Diggers</title>
+      <rageid>33750</rageid>
+      <thumb>http://thetvdb.com/banners/posters/256740-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Apocalypse 101</title>
+      <rageid>34974</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267973-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267973-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Car SOS</title>
+      <rageid>35146</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266851-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266851-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Are You Tougher Than a Boy Scout?</title>
+      <rageid>34871</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267525-1.jpg</thumb>
+      <fanart></fanart>
     </show>
   </channel>
   <channel>
@@ -20528,6 +21314,18 @@
       <thumb></thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/259071-1.jpg</fanart>
     </show>
+    <show>
+      <title>Hannibal</title>
+      <rageid>30909</rageid>
+      <thumb>http://thetvdb.com/banners/posters/259063-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/259063-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Ready for Love</title>
+      <rageid>31462</rageid>
+      <thumb>http://thetvdb.com/banners/posters/260341-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/260341-2.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>NBC/CBS</name>
@@ -20536,6 +21334,15 @@
       <rageid>203</rageid>
       <thumb>http://thetvdb.com/banners/posters/74067-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/74067-1.jpg</fanart>
+    </show>
+  </channel>
+  <channel>
+    <name>NCRV</name>
+    <show>
+      <title>Levenslied</title>
+      <rageid>23971</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/223961-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -20566,6 +21373,12 @@
       <rageid>27822</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Hemlock Grove</title>
+      <rageid>33272</rageid>
+      <thumb>http://thetvdb.com/banners/posters/259948-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/259948-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -20957,6 +21770,12 @@
       <thumb>http://thetvdb.com/banners/posters/74256-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/74256-1.jpg</fanart>
     </show>
+    <show>
+      <title>Monsters vs. Aliens</title>
+      <rageid>25191</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267978-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267978-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>NickToons</name>
@@ -21232,6 +22051,18 @@
       <rageid>15433</rageid>
       <thumb>http://thetvdb.com/banners/posters/79995-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/79995-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Labyrinth</title>
+      <rageid>16184</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Detective Conan</title>
+      <rageid>3296</rageid>
+      <thumb>http://thetvdb.com/banners/posters/72454-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/72454-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -21940,6 +22771,15 @@
     </show>
   </channel>
   <channel>
+    <name>POP TV</name>
+    <show>
+      <title>Slovenija ima talent</title>
+      <rageid>29017</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+  </channel>
+  <channel>
     <name>Prime</name>
     <show>
       <title>New Zealand's Got Talent</title>
@@ -22103,6 +22943,42 @@
       <thumb>http://thetvdb.com/banners/posters/256138-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/256138-1.jpg</fanart>
     </show>
+    <show>
+      <title>Help, mijn man is klusser!</title>
+      <rageid>20314</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>De Grote Improvisatie Show</title>
+      <rageid>34939</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Weet ik veel</title>
+      <rageid>35046</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Aaf</title>
+      <rageid>35043</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267615-2.jpg</fanart>
+    </show>
+    <show>
+      <title>Everybody Dance Now (NL)</title>
+      <rageid>34755</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Postcode Loterij Miljoenenjacht</title>
+      <rageid>20554</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>RTL 5</name>
@@ -22133,6 +23009,12 @@
       <thumb></thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/217761-1.jpg</fanart>
     </show>
+    <show>
+      <title>Leven als een Prof</title>
+      <rageid>28947</rageid>
+      <thumb>http://thetvdb.com/banners/posters/252029-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>Sat. 1</name>
@@ -22147,6 +23029,12 @@
       <rageid>25770</rageid>
       <thumb>http://thetvdb.com/banners/posters/150751-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/150751-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Danni Lowinski</title>
+      <rageid>26800</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
     </show>
   </channel>
   <channel>
@@ -22273,6 +23161,12 @@
       <rageid>20043</rageid>
       <thumb>http://thetvdb.com/banners/posters/130521-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/130521-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Bloed, Zweet en Tranen</title>
+      <rageid>35222</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
     </show>
   </channel>
   <channel>
@@ -22436,6 +23330,24 @@
     <show>
       <title>Unearthing Ancient Secrets</title>
       <rageid>24390</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Alien Encounters</title>
+      <rageid>34886</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267788-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Rise of the Continents</title>
+      <rageid>34887</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268012-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268012-2.jpg</fanart>
+    </show>
+    <show>
+      <title>The Definitive Guide to Aliens</title>
+      <rageid>35079</rageid>
       <thumb></thumb>
       <fanart></fanart>
     </show>
@@ -23087,6 +23999,12 @@
       <thumb>http://thetvdb.com/banners/posters/266694-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/266694-1.jpg</fanart>
     </show>
+    <show>
+      <title>Love Matters</title>
+      <rageid>35415</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268183-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268183-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>Sky Livingit</name>
@@ -23714,6 +24632,18 @@
       <thumb>http://thetvdb.com/banners/posters/256657-1.jpg</thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>Urban Tarzan</title>
+      <rageid>33102</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Car Lot Rescue</title>
+      <rageid>33085</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266413-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266413-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>Starz</name>
@@ -23764,6 +24694,18 @@
       <rageid>26886</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Spartacus: War of the Damned</title>
+      <rageid>21885</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Da Vinci's Demons</title>
+      <rageid>32724</rageid>
+      <thumb>http://thetvdb.com/banners/posters/259669-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/259669-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -23861,6 +24803,12 @@
       <thumb>http://thetvdb.com/banners/posters/253749-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/253749-1.jpg</fanart>
     </show>
+    <show>
+      <title>Big Rich Atlanta</title>
+      <rageid>33545</rageid>
+      <thumb>http://thetvdb.com/banners/posters/265943-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/265943-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>Sub</name>
@@ -23896,6 +24844,18 @@
       <rageid>30161</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Top Of The Lake</title>
+      <rageid>27903</rageid>
+      <thumb>http://thetvdb.com/banners/posters/260320-2.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/260320-2.jpg</fanart>
+    </show>
+    <show>
+      <title>Rectify</title>
+      <rageid>30069</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266609-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266609-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -24217,6 +25177,24 @@
       <rageid>31509</rageid>
       <thumb></thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/265729-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Defiance</title>
+      <rageid>30724</rageid>
+      <thumb>http://thetvdb.com/banners/posters/255326-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/255326-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Deep South Paranormal</title>
+      <rageid>34777</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268519-1.jpg</thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Stranded</title>
+      <rageid>33652</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/84872-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -24689,6 +25667,12 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>Robotech</title>
+      <rageid>5028</rageid>
+      <thumb>http://thetvdb.com/banners/posters/76828-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/76828-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>T+E</name>
@@ -24790,6 +25774,12 @@
       <rageid>31168</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Who Gets the Last Laugh?</title>
+      <rageid>33098</rageid>
+      <thumb></thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268232-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -25354,6 +26344,15 @@
     </show>
   </channel>
   <channel>
+    <name>The History Channel</name>
+    <show>
+      <title>Banger Boys</title>
+      <rageid>35474</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+  </channel>
+  <channel>
     <name>The History Channel (AU)</name>
     <show>
       <title>Tony Robinson Explores Australia</title>
@@ -25534,6 +26533,12 @@
       <rageid>4983</rageid>
       <thumb>http://thetvdb.com/banners/posters/70508-1.jpg</thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Yu-Gi-Oh!</title>
+      <rageid>6690</rageid>
+      <thumb>http://thetvdb.com/banners/posters/113561-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/113561-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -26020,6 +27025,18 @@
       <rageid>33185</rageid>
       <thumb>http://thetvdb.com/banners/posters/265655-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/265655-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Welcome to Myrtle Manor</title>
+      <rageid>33922</rageid>
+      <thumb>http://thetvdb.com/banners/posters/267505-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/267505-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Casino Confidential</title>
+      <rageid>35213</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268227-1.jpg</thumb>
+      <fanart></fanart>
     </show>
   </channel>
   <channel>
@@ -26624,6 +27641,12 @@
       <thumb>http://thetvdb.com/banners/posters/267156-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/267156-1.jpg</fanart>
     </show>
+    <show>
+      <title>Guinness World Records Gone Wild</title>
+      <rageid>33271</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266290-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266290-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>TV JOJ</name>
@@ -26740,6 +27763,15 @@
       <rageid>8594</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+  </channel>
+  <channel>
+    <name>TV Saitama</name>
+    <show>
+      <title>Casshern Sins</title>
+      <rageid>20119</rageid>
+      <thumb>http://thetvdb.com/banners/posters/83316-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/83316-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -27053,6 +28085,12 @@
       <thumb>http://thetvdb.com/banners/posters/81847-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/81847-1.jpg</fanart>
     </show>
+    <show>
+      <title>The X Factor (NZ)</title>
+      <rageid>29196</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>TV3 Ireland</name>
@@ -27061,6 +28099,12 @@
       <rageid>12306</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Jack Taylor</title>
+      <rageid>34547</rageid>
+      <thumb>http://thetvdb.com/banners/posters/265081-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/265081-2.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -27229,6 +28273,12 @@
       <rageid>6590</rageid>
       <thumb>http://thetvdb.com/banners/posters/76882-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/76882-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Charlie</title>
+      <rageid>13208</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
     </show>
   </channel>
   <channel>
@@ -27431,6 +28481,18 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>Rambam</title>
+      <rageid>29305</rageid>
+      <thumb>http://thetvdb.com/banners/posters/255101-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/255101-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Volgens Robert</title>
+      <rageid>35330</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
   </channel>
   <channel>
     <name>Velocity</name>
@@ -27463,6 +28525,18 @@
       <rageid>4755</rageid>
       <thumb>http://thetvdb.com/banners/posters/74618-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/74618-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Café Racer</title>
+      <rageid>31520</rageid>
+      <thumb>http://thetvdb.com/banners/posters/257481-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/257481-1.jpg</fanart>
+    </show>
+    <show>
+      <title>Kings of Crash</title>
+      <rageid>34502</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
     </show>
   </channel>
   <channel>
@@ -27800,6 +28874,12 @@
       <thumb>http://thetvdb.com/banners/posters/251379-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/251379-1.jpg</fanart>
     </show>
+    <show>
+      <title>The Jenny McCarthy Show (2013)</title>
+      <rageid>33864</rageid>
+      <thumb>http://thetvdb.com/banners/posters/266882-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/266882-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>VH1 Classic</name>
@@ -27833,6 +28913,39 @@
     <show>
       <title>De Pappenheimers</title>
       <rageid>27406</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Spelen met uw Leven</title>
+      <rageid>35379</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>De Slimste Gemeente</title>
+      <rageid>34941</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Uitzonderlijk Vervoer</title>
+      <rageid>35378</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Hallelujaaah!</title>
+      <rageid>35133</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268228-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268228-1.jpg</fanart>
+    </show>
+  </channel>
+  <channel>
+    <name>VijfTV</name>
+    <show>
+      <title>Astrid in Wonderland</title>
+      <rageid>29635</rageid>
       <thumb></thumb>
       <fanart></fanart>
     </show>
@@ -27874,6 +28987,12 @@
       <rageid>34765</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Red Sonja</title>
+      <rageid>29318</rageid>
+      <thumb>http://thetvdb.com/banners/posters/254130-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/254130-1.jpg</fanart>
     </show>
   </channel>
   <channel>
@@ -27920,12 +29039,30 @@
       <thumb></thumb>
       <fanart></fanart>
     </show>
+    <show>
+      <title>De Beste Hobbykok van Vlaanderen</title>
+      <rageid>26567</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Zone stad</title>
+      <rageid>20080</rageid>
+      <thumb>http://thetvdb.com/banners/posters/133461-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/133461-1.jpg</fanart>
+    </show>
   </channel>
   <channel>
     <name>W</name>
     <show>
       <title>Undercover Boss (CA)</title>
       <rageid>30861</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>Come Dine With Me (CA)</title>
+      <rageid>34799</rageid>
       <thumb></thumb>
       <fanart></fanart>
     </show>
@@ -27961,6 +29098,12 @@
       <rageid>15138</rageid>
       <thumb>http://thetvdb.com/banners/posters/79809-1.jpg</thumb>
       <fanart>http://thetvdb.com/banners/fanart/original/79809-1.jpg</fanart>
+    </show>
+    <show>
+      <title>The Incredible Mr Goodwin</title>
+      <rageid>34866</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
     </show>
   </channel>
   <channel>
@@ -28186,6 +29329,27 @@
       <rageid>18372</rageid>
       <thumb></thumb>
       <fanart></fanart>
+    </show>
+    <show>
+      <title>Letzte Spur Berlin</title>
+      <rageid>32803</rageid>
+      <thumb></thumb>
+      <fanart></fanart>
+    </show>
+    <show>
+      <title>VERBRECHEN nach Ferdinand von Schirach</title>
+      <rageid>35372</rageid>
+      <thumb>http://thetvdb.com/banners/posters/268520-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/268520-1.jpg</fanart>
+    </show>
+  </channel>
+  <channel>
+    <name>ZDFneo</name>
+    <show>
+      <title>Wild Germany</title>
+      <rageid>28235</rageid>
+      <thumb>http://thetvdb.com/banners/posters/237851-1.jpg</thumb>
+      <fanart>http://thetvdb.com/banners/fanart/original/237851-1.jpg</fanart>
     </show>
   </channel>
 </tv>
